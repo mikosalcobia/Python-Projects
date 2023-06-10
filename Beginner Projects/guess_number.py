@@ -1,3 +1,10 @@
+"""Guess the Number
+
+A simple game where the user defines a range, the PC choose randomly a number
+in it and the user tries to guess what is it.
+"""
+
+#imports
 import random
 
 x = int(input("Choose a number: "))
