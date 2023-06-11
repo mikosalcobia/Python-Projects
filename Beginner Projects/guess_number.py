@@ -22,7 +22,6 @@ def higherOrlower(n_user):
 
     Args:
         n_user (int): User's number
-
     """
     if n_user < n_PC:
         print("It is a higher number\n")
