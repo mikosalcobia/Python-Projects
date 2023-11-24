@@ -1,4 +1,5 @@
-"""Guess the Number
+"""
+Guess the Number
 
 A simple game where the user defines a range, the PC choose randomly a number
 in it and the user tries to guess what is it.
@@ -16,7 +17,8 @@ n_PC = random.randint(x,y)
 n_user = None
 
 def higherOrlower(n_user):
-    """Higher or lower number.
+    """
+    Higher or lower number.
 
     Check if the user's number is higher or lower than the PC's.
 
